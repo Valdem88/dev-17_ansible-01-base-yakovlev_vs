@@ -353,6 +353,7 @@ ubuntu                     : ok=3    changed=0    unreachable=0    failed=0    s
 ```
 12)
 
+https://github.com/Valdem88/dev-17_ansible-01-base-yakovlev_vs/blob/main/playbook/README.md
 
 ### Как оформить ДЗ?
 
